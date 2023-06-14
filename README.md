@@ -3,7 +3,7 @@ This implemetation was based from the original implementation: [nwojke/deep_sort
 
 ![](out.gif)
 
-We combine Deep SORT implementation with YOLOv8 Detector, implementations:
+We combine Deep SORT implementation with YOLOv8 Detector for experiments:
 
 Multiple Object Tracking:
    - Multiple Object Tracking with historical trajectory
